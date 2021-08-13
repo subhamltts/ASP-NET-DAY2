@@ -1,0 +1,14 @@
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_BL\bin\Debug\ProjectX_BL.dll
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_BL\bin\Debug\ProjectX_BL.pdb
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_BL\bin\Debug\ProjectX_DTO.dll
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_BL\bin\Debug\ProjextX_DAL.dll
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_BL\bin\Debug\EntityFramework.dll
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_BL\bin\Debug\ProjectX_DTO.pdb
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_BL\bin\Debug\ProjextX_DAL.pdb
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_BL\bin\Debug\ProjextX_DAL.dll.config
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_BL\bin\Debug\EntityFramework.xml
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_BL\obj\Debug\ProjectX_BL.csproj.AssemblyReference.cache
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_BL\obj\Debug\ProjectX_BL.csproj.CoreCompileInputs.cache
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_BL\obj\Debug\ProjectX_BL.csproj.CopyComplete
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_BL\obj\Debug\ProjectX_BL.dll
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_BL\obj\Debug\ProjectX_BL.pdb

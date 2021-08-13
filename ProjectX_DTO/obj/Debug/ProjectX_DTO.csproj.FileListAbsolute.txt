@@ -1,0 +1,6 @@
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_DTO\bin\Debug\ProjectX_DTO.dll
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_DTO\bin\Debug\ProjectX_DTO.pdb
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_DTO\obj\Debug\ProjectX_DTO.csproj.AssemblyReference.cache
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_DTO\obj\Debug\ProjectX_DTO.csproj.CoreCompileInputs.cache
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_DTO\obj\Debug\ProjectX_DTO.dll
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_DTO\obj\Debug\ProjectX_DTO.pdb

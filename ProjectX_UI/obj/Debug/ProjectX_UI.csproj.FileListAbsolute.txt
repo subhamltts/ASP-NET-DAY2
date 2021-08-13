@@ -1,0 +1,15 @@
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\bin\Debug\ProjectX_UI.exe.config
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\bin\Debug\ProjectX_UI.exe
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\bin\Debug\ProjectX_UI.pdb
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\bin\Debug\ProjextX_DAL.dll
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\bin\Debug\EntityFramework.dll
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\bin\Debug\ProjextX_DAL.pdb
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\bin\Debug\ProjextX_DAL.dll.config
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\bin\Debug\EntityFramework.xml
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\obj\Debug\ProjectX_UI.csproj.AssemblyReference.cache
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\obj\Debug\ProjectX_UI.csproj.CoreCompileInputs.cache
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\obj\Debug\ProjectX_UI.csproj.CopyComplete
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\obj\Debug\ProjectX_UI.exe
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\obj\Debug\ProjectX_UI.pdb
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\bin\Debug\EntityFramework.SqlServer.dll
+G:\Genesis\Assessment\ProjectX\ProjectX_UI\ProjectX_UI\bin\Debug\EntityFramework.SqlServer.xml
